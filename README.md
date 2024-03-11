@@ -32,7 +32,7 @@ For each of those courses I already have the code examples with explanations, bu
 Other courses:
 
 5. Noteworthy Boost libraries
-    - this one I haven't fully conceptualized yet, but I'm considering to make the main Motif of this course to write a modern parser that would allow to add some rules. Oftentiimes there is a situation where we need to filter each packet individually, which is incredibly CPU-consuming, despite using O(1) and O(N) libraries. But Computer Science allows to think of very outside-the-box solutions. And while at it, some noteworthy boost libraries could be introduced.
+    - this one I haven't fully conceptualized yet, but I'm considering to make the main Motif of this course to write a modern parser that would allow to add some rules. Oftentimes there is a situation where we need to filter each packet individually, which is incredibly CPU-consuming, despite using O(1) and O(N) libraries. But Computer Science allows to think of very outside-the-box solutions. And while at it, some noteworthy boost libraries could be introduced.
 
 6. All GoF Design Patterns along with all techniques from aforementioned courses
     - Algorithmic real-life-resembling problems that also create an opportunity to exercise modern C++ techniques and Design Patterns. Like the tasks provoke to use somewhat "rare" or complicated or new methods, so that it will become more natural to use them in production code.
@@ -40,4 +40,4 @@ Other courses:
 
 It has taken me 1 weekend (24h) to do all of that so I enjoy skipping university classes more and more due to such weekends.
 
-I hope you'll join me in this noble pursuit of knowledge, together we'll reach the state of art and most importantly, ourselves!
+I hope you'll join me in this noble pursuit of knowledge, together we'll reach the cutting edge, and most importantly, exceed ourselves!
