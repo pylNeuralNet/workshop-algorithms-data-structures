@@ -6,6 +6,17 @@ The most evident business benefit is a secure and performant code that is also r
 
 I do not know if such workshops even exist but anyways this is how I'd have it. Also I threw in so much that I doubt such advanced modern C++23 course exists in such a form. The recommended sequence is from 1 onwards.
 
+# Workshop prerequisities
+- knowledge of intermediate C++ and OOP
+- knowledge of C++11-14, C++17 language features
+- knowledge of multithreading (knowledge of multithreading design patterns good to have)
+- basic knowledge of GoF design patterns
+- knowledge of Algorithms & Data structures
+- knowledge of principles like SOLID, MISRA, SEI CERT
+- prior knowledge of the foundations of Computer Science like Mathematical Linguistics, Theory of Computation, Theory of Complexity, CPU Architecture and Compiler Techniques is not necessary as elements of those, if present in the course, will be explained. Isn't that cool?
+
+And that's it! These Workshops, listed below, expand the basic knowledge listed above like trifolds.
+
 # Workshop portfolio 
 (each is a separate course)
 
@@ -18,6 +29,7 @@ I do not know if such workshops even exist but anyways this is how I'd have it. 
 
 2. Modern C++ design techniques and optimizations other than GoF Design Patterns
     - RAII but also many more
+    - compiler implementation of virtual and what about it
     - I threw in some SOLID etc just to show how this Courses techniques naturally and innately implement good design principles
 
 3. Template Metaprogramming
